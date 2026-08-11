@@ -77,3 +77,5 @@ git push
 I created a Git repository, created a commit, connected my local repository to GitHub, and pushed my main branch.
 
 My local main branch and GitHub origin/main are synchronized.
+
+Mohamed will keep sticking to the point and not focusing on the unnecessary.
